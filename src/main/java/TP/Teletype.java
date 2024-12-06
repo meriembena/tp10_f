@@ -1,6 +1,6 @@
 package TP;
 import bandeau.Bandeau;
-
+ 
 public class Teletype extends Effet {
     private int delay;
 

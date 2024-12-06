@@ -1,10 +1,12 @@
 package TP;
-import bandeau.Bandeau;
 import java.awt.Font;
+
+import bandeau.Bandeau;
 
 public class Zoom extends Effet {
     private int steps;
     private int delay;
+
 
     public Zoom(Bandeau bandeau, int steps, int delay) {
         super(bandeau);

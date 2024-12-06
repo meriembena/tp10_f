@@ -1,11 +1,12 @@
 package exemple;
+import java.awt.Color;
+import java.awt.Font;
+
 import TP.Clignotant;
 import TP.Scenario;
 import TP.Teletype;
 import TP.Zoom;
 import bandeau.Bandeau;
-import java.awt.Color;
-import java.awt.Font;
 
 public class ExempleDUtilisation {
 

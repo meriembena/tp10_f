@@ -1,6 +1,8 @@
 package TP;
-import bandeau.Bandeau;
 import java.awt.Color;
+
+import bandeau.Bandeau;
+
 
 public class Clignotant extends Effet {
     private int repetitions;
